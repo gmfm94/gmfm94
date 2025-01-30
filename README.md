@@ -1,7 +1,7 @@
 ## Olá, eu sou o Gabriel Menezes!
 
-Gestor - Brotheerhood Informática
-Estudando HTML - CSS
+* Gestor - Brotheerhood Informática
+* Estudando HTML - CSS
 
 ##
 
